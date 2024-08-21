@@ -1,6 +1,6 @@
 # Uaine.Maps
 
-A C# .NET project for object types and basic primitives
+A C# .NET project for cell maps of int, float and boolean or objects in a 2D space
 
 ## Getting Started
 
