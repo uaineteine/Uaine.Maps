@@ -5,14 +5,14 @@
     <Authors>Daniel Stamer-Squair</Authors>
     <Company />
     <Description>A .NET library of object types and primitives for constructing larger classes</Description>
-    <Copyright>Daniel Stamer-Squair 2023</Copyright>
+    <Copyright>Daniel Stamer-Squair 2024</Copyright>
     <PackageProjectUrl>https://github.com/uaineteine/Uaine.Objects</PackageProjectUrl>
     <RepositoryUrl>https://github.com/uaineteine/Uaine.Objects.git</RepositoryUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0</Version>
-    <AssemblyVersion>1.0</AssemblyVersion>
-    <FileVersion>1.0</FileVersion>
+    <Version>1.0.0.1</Version>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
     <PackageIcon>icon.png</PackageIcon>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
